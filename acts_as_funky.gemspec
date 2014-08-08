@@ -7,11 +7,11 @@ require "acts_as_funky/version"
 Gem::Specification.new do |s|
   s.name        = "acts_as_funky"
   s.version     = ActsAsFunky::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ActsAsFunky."
-  s.description = "TODO: Description of ActsAsFunky."
+  s.authors     = ["Fabrice"]
+  s.email       = ["noemail@example.com"]
+  s.homepage    = "https://github.com/fabxavier/acts_as_funky"
+  s.summary     = "Make things funky"
+  s.description = "This thing makes things funky things."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
