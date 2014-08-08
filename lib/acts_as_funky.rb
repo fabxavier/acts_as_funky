@@ -1,0 +1,2 @@
+module ActsAsFunky
+end
